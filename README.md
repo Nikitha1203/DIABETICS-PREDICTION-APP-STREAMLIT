@@ -68,5 +68,4 @@ Modify the diabetes_prediction.ipynb notebook or diabetes_prediction_webapp.py f
 Run the Jupyter Notebook or the Streamlit web application locally to test your changes.
 
 Once you're satisfied with your modifications, commit and push your changes to your GitHub repository.
-"C:\Users\My PC\Videos\Captures\diabetes_predictionwebapp · Streamlit - Google Chrome 2023-06-16 15-54-49.mp4"
 
