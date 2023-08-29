@@ -1,3 +1,7 @@
+
+
+https://github.com/Nikitha1203/DIABETICS-PREDICTION-APP-STREAMLIT/assets/109364397/4edc6b73-f70f-45d7-8520-701fcd0fa8fc
+
 # DIABETICS-PREDICTION-APP-STREAMLIT
 Diabetes Prediction App using Jupyter Notebook and Streamlit[QSPYDER]
 This repository contains code for a diabetes prediction application built using Jupyter Notebook and Streamlit. The Jupyter Notebook file diabetes_prediction.ipynb contains the analysis and prediction code, while the Streamlit file diabetes_prediction_webapp.py is used to create a web application for diabetes prediction.
